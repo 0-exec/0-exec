@@ -18,6 +18,14 @@
   <img src="https://img.shields.io/badge/OS-WINDOWS-228B22?style=flat-square&labelColor=101820"/>
 </p>
 
+<p align="center">
+  <a href="https://tryhackme.com/p/.exec">
+    <img src="https://cdn-images.tryhackme.com/public-profile/.exec/badge-dark-d5eb77fe5c30.png"
+         alt=".exec's TryHackMe badge"
+         width="400"/>
+  </a>
+</p>
+
 ---
 
 ### `01 // ABOUT`
