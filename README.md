@@ -4,9 +4,10 @@
 ┌──(0-exec㉿github)-[~]
 └─$ whoami
 
-    0-exec
-    Cybersecurity Enthusiast
-    Defensive Security Research
+   0-exec
+   IT Support Engineer
+   Cybersecurity Enthusiast
+   Aspiring SOC / Malware Analyst
 ```
 
 <p align="center">
@@ -21,29 +22,53 @@
 
 ### `01 // ABOUT`
 
-Exploring cybersecurity, malware analysis, and Python development.
+Currently working in IT Support, with a growing interest in cybersecurity and defensive security operations.
 
-Interested in understanding how malicious software works and developing tools for defensive security research.
+Looking to transition into cybersecurity, particularly SOC Analysis or Malware Analysis.
 
-### `02 // TOOLKIT`
+Interested in investigating technical issues, understanding how systems work, and learning how to identify and analyze security threats.
+
+Python is one of the technologies I'm exploring to support my cybersecurity learning and projects.
+
+### `02 // TECHNICAL INTERESTS`
+
+**Professional Background**
+- IT Support
+- Technical Troubleshooting
+
+**Cybersecurity Interests**
+- SOC Operations
+- Malware Analysis
+- Threat Detection
+- Digital Forensics
+- Incident Response
+
+**Technology & Operating Systems**
+- macOS
+- Linux
+- Windows
+- Python (Learning)
+
+### `03 // TOOLKIT`
 
 ```text
 [ LANGUAGES ]
-  └── Python
+   └── Python (Learning)
 
-[ ENVIRONMENTS ]
-  ├── Linux
-  └── Windows
-  └── macOS
+[ OPERATING SYSTEMS ]
+   ├── macOS
+   ├── Linux
+   └── Windows
 
-[ INTERESTS ]
-  ├── Malware Analysis
-  ├── Static Analysis
-  ├── Digital Forensics
-  └── Reverse Engineering
+[ SECURITY INTERESTS ]
+   ├── Malware Analysis
+   ├── Static Analysis
+   ├── Digital Forensics
+   ├── Threat Detection
+   └── Incident Response
 ```
 
-### `03 // PROJECTS`
+### `04 // PROJECTS`
 
 ```bash
 $ ls ./projects
@@ -63,21 +88,34 @@ A lightweight Python-based static analysis tool.
 
 [View my repositories →](https://github.com/0-exec?tab=repositories)
 
-### `04 // CURRENTLY WORKING ON`
+### `05 // CURRENTLY WORKING ON`
 
 ```bash
 [+] Improving Python skills
 [+] Learning malware analysis
+[+] Exploring SOC operations
+[+] Understanding threat detection
 [+] Exploring reverse engineering
 [+] Building defensive security tools
 ```
+
+### `06 // CAREER GOAL`
+
+Transitioning from IT Support into cybersecurity.
+
+Interested in opportunities such as:
+
+- SOC Analyst
+- Junior SOC Analyst
+- Malware Analyst
+- Junior Security Analyst
 
 ---
 
 ```text
 ┌────────────────────────────────────────────┐
 │                                            │
-│   0-exec@github:~$ exit                     │
+│   0-exec@github:~$ exit                    │
 │                                            │
 │   "Understand the threat.                  │
 │    Analyze the code.                       │
