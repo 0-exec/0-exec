@@ -10,11 +10,11 @@
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-MALWARE_ANALYSIS-00FF00?style=flat-square&labelColor=101820"/>
-  <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-00FF00?style=flat-square&labelColor=101820"/>
-  <img src="https://img.shields.io/badge/PRIMARY_OS-MACOS-00FF00?style=flat-square&labelColor=101820"/>
-  <img src="https://img.shields.io/badge/OS-LINUX-00FF00?style=flat-square&labelColor=101820"/>
-  <img src="https://img.shields.io/badge/OS-WINDOWS-00FF00?style=flat-square&labelColor=101820"/>
+  <img src="https://img.shields.io/badge/FOCUS-MALWARE_ANALYSIS-228B22?style=flat-square&labelColor=101820"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-228B22?style=flat-square&labelColor=101820"/>
+  <img src="https://img.shields.io/badge/PRIMARY_OS-MACOS-228B22?style=flat-square&labelColor=101820"/>
+  <img src="https://img.shields.io/badge/OS-LINUX-228B22?style=flat-square&labelColor=101820"/>
+  <img src="https://img.shields.io/badge/OS-WINDOWS-228B22?style=flat-square&labelColor=101820"/>
 </p>
 
 ---
