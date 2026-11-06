@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/.exec">
-     <img src="https://cdn-images.tryhackme.com/public-profile/.exec/badge-dark-e371f82dab01.png" alt=".exec's TryHackMe badge." width="400">
+<img src="https://cdn-images.tryhackme.com/public-profile/.exec/badge-dark-8012ae7aaf64.png" alt=".exec's TryHackMe badge." width="400">
   </a>
 </p>
 
