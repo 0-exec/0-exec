@@ -22,7 +22,7 @@
   <a href="https://tryhackme.com/p/.exec">
     <img src="https://cdn-images.tryhackme.com/public-profile/.exec/badge-dark-d5eb77fe5c30.png"
          alt=".exec's TryHackMe badge"
-         width="400"/>
+         width="500"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 ### `01 // ABOUT`
 
-Currently working in IT Support, with a growing interest in cybersecurity and defensive security operations.
+Currently working as Support Engineer, with a growing interest in cybersecurity and defensive security operations.
 
 Looking to transition into cybersecurity, particularly SOC Analysis or Malware Analysis.
 
@@ -41,7 +41,7 @@ Python is one of the technologies I'm exploring to support my cybersecurity lear
 ### `02 // TECHNICAL INTERESTS`
 
 **Professional Background**
-- IT Support
+- Support Engineer
 - Technical Troubleshooting
 
 **Cybersecurity Interests**
@@ -109,7 +109,7 @@ A lightweight Python-based static analysis tool.
 
 ### `06 // CAREER GOAL`
 
-Transitioning from IT Support into cybersecurity.
+Transitioning from Support Engineer into cybersecurity.
 
 Interested in opportunities such as:
 
