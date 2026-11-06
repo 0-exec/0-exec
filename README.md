@@ -1,48 +1,71 @@
-# `root@github:~$ whoami`
+# `0-exec@github:~$ whoami`
 
-```text
-┌──(researcher㉿github)-[~]
+```bash
+┌──(0-exec㉿github)-[~]
 └─$ whoami
 
-Cybersecurity Enthusiast
-Python Developer
-Malware Analysis & Defensive Security
+    0-exec
+    Cybersecurity Enthusiast
+    Defensive Security Research
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-MALWARE_ANALYSIS-00ff41?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LANGUAGE-PYTHON-00ff41?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-00ff41?style=flat-square"/>
+</p>
 
 ---
 
-## `01 // ABOUT ME`
+### `01 // ABOUT`
 
-Interested in cybersecurity, malware analysis, Python development, and understanding how software works under the hood.
+Exploring cybersecurity, malware analysis, and Python development.
 
-Currently learning and experimenting with defensive security tools.
+Interested in understanding how malicious software works and developing tools for defensive security research.
 
-## `02 // TECH STACK`
+### `02 // TOOLKIT`
 
 ```text
-LANGUAGES     : Python
-OPERATING SYS : Linux / MacOS / Windows 
-TOOLS         : Git / GitHub
-INTERESTS     : Malware Analysis / Digital Forensics
+[ LANGUAGES ]
+  └── Python
+
+[ ENVIRONMENTS ]
+  ├── Linux
+  └── Windows
+  └── macOS
+
+[ INTERESTS ]
+  ├── Malware Analysis
+  ├── Static Analysis
+  ├── Digital Forensics
+  └── Reverse Engineering
 ```
 
-## `03 // PROJECTS`
+### `03 // PROJECTS`
 
-### [Simple Malware Analysis](https://github.com/0-exec/python-mw-analyzer)
+```bash
+$ ls ./projects
+```
 
-A lightweight Python script for basic static malware analysis.
+**Simple Malware Analysis**
 
-- MD5 & SHA256 hashing
-- File entropy calculation
-- String extraction
-- Suspicious keyword detection
-- URL and IP extraction
-
-## `04 // CURRENT OBJECTIVES`
+A lightweight Python-based static analysis tool.
 
 ```text
-[+] Learning malware analysis
+[+] MD5 / SHA256 hashing
+[+] Entropy calculation
+[+] String extraction
+[+] Suspicious keyword detection
+[+] URL / IP extraction
+```
+
+[View my repositories →](https://github.com/0-exec?tab=repositories)
+
+### `04 // CURRENTLY WORKING ON`
+
+```bash
 [+] Improving Python skills
+[+] Learning malware analysis
 [+] Exploring reverse engineering
 [+] Building defensive security tools
 ```
@@ -50,8 +73,15 @@ A lightweight Python script for basic static malware analysis.
 ---
 
 ```text
-┌─────────────────────────────────────────┐
-│  END OF TRANSMISSION                    │
-│  Keep learning. Keep analyzing.         │
-└─────────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│                                            │
+│   0-exec@github:~$ exit                     │
+│                                            │
+│   "Understand the threat.                  │
+│    Analyze the code.                       │
+│    Build the defense."                     │
+│                                            │
+│   [ SESSION TERMINATED ]                   │
+│                                            │
+└────────────────────────────────────────────┘
 ```
